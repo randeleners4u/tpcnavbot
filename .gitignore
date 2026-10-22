@@ -1,0 +1,34 @@
+# Environments and Secrets (NEVER commit secrets!)
+.env
+.env.local
+.env.*.local
+!.env.example
+
+# Python cache & bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Virtual Environments
+venv/
+.venv/
+env/
+ENV/
+
+# Streamlit local settings & secrets
+.streamlit/secrets.toml
+
+# Local persistent vector store cache
+data/chroma_db/
+
+# Operating System files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Logs
+*.log
