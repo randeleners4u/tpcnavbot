@@ -4,6 +4,9 @@
 > **Complete Checkpoints 1, 2, 3, and 4 Full Implementation**  
 > **Institution**: Talibon Polytechnic College (TPC), San Isidro, Talibon, Bohol  
 > **100% Pure Python Architecture | ChromaDB | Google Gemini API | Streamlit | Docker**
+> **🌐 Live Deployed Application**: [https://tpcnavbottt-86x6mfwrmyvliw3xgpg2qp.streamlit.app/](https://tpcnavbottt-86x6mfwrmyvliw3xgpg2qp.streamlit.app/)  
+> **Deployment Status**: 🟢 Active on Streamlit Community Cloud  
+
 
 ---
 
